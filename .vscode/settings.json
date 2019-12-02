@@ -1,0 +1,4 @@
+{
+    "editor.defaultFormatter": "trixnz.vscode-lua",
+    "editor.formatOnSave": true
+}

@@ -1,0 +1,7 @@
+{
+  "mapdir": "map.w3x",
+  "files": [
+    "main.lua",
+    "test.lua"
+  ]
+}
